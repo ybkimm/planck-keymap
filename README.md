@@ -1,7 +1,5 @@
 # planck-keymap
 
-planck 키보드의 커스텀 키맵입니다.
-
 ![Keymap Image](./screenshots/keymap.png)
 
 # Notices

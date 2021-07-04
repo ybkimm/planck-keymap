@@ -1,6 +1,6 @@
 # planck-keymap
 
-![Keymap Image](./screenshots/keymap.png)
+![Keymap Image](./images/keymap.png)
 
 # Notices
 

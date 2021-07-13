@@ -86,6 +86,8 @@
 
 * macOS/ipadOS 전용입니다.
 * 한영 키 없이 `⇧␣`키로 입력기를 전환합니다.
+* [OpenSteno](http://opensteno.org) 영문 속기 키보드 모드를 지원합니다.
+  * [Plover](https://github.com/openstenoproject/plover/releases)와 호환되며 4.0.0 이상의 버전이 필요합니다.
 
 # 펌웨어
 
